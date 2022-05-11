@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+
+#bg{
+
+	
+height:100px;
+width:200px;
+background-color:red;
+}
+h1{
+	color:green;
+}
+th,td{
+	padding:1.5px;
+	text-align:left;
+	border-bottom:1px solid black;
+	
+}
+tr:hover {
+	background-color:coral;
+	}
+	th{
+	background-color:orange;
+	}
+	
